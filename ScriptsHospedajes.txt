@@ -1,0 +1,8 @@
+INSERT INTO `efmicroservice`.`hospedajes`
+(`nombre`)
+VALUES
+("Las casuarianas");
+INSERT INTO `efmicroservice`.`hospedajes`
+(`nombre`)
+VALUES
+("Buen viaje");
